@@ -1,9 +1,7 @@
 def add(num1, num2):
     """Adds num1 and num2"""
-
-    result = num1 + num2
-
-    return result
+    
+    return num1 + num2
 
 
 def subtract(num1, num2):
