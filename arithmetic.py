@@ -1,5 +1,6 @@
 def add(num1, num2):
-    return 10
+    result = num1 + num2
+    return result
 
 def subtract(num1, num2):
     pass
