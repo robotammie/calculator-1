@@ -41,7 +41,9 @@ def power(num1, num2):
     """provides num1 to the power of num2"""
 
     return num1 ** num2
-    
+
 
 def mod(num1, num2):
-    pass
+    """provides remainder when num1 is divided by num2"""
+
+    return num1 % num2
