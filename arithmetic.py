@@ -3,7 +3,7 @@ def add(num1, num2):
 
     result = num1 + num2
 
-    return result 
+    return result
 
 
 def subtract(num1, num2):
@@ -19,7 +19,11 @@ def multiply(num1, num2):
 
 
 def divide(num1, num2):
-    pass
+    """"divides num1 by num2, returns float"""
+
+    num1 = float(num1)
+    return num1 / num2
+
 
 def square(num1):
     pass
